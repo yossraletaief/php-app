@@ -209,6 +209,16 @@ ul.about-content {
     background-image: url(images/horse2.jpg);
 }
 
+.about-left2 {
+    flex-basis: 40%;
+    background-image: url(images/horse3.jpg);
+}
+
+.about-left3 {
+    flex-basis: 40%;
+    background-image: url(images/horse5.png);
+}
+
 .about-right {
     flex-basis: 60%;
 }
